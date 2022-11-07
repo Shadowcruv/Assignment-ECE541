@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+age = input("How old are you? ")
+department = input("Which department are you in Unizik? ")
+print("Name: " + name)
+print("Age: " + age + " years old")
+print("Department: " + department + " department")
